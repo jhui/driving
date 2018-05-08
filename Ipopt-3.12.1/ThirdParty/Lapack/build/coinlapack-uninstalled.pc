@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/Users/venice/Developer/driving/Ipopt-3.12.1/ThirdParty/Lapack/build
+
+Name: Lapack
+Description: Linear algebra package
+URL: https://projects.coin-or.org/BuildTools
+Version: 1.5.2
+Libs: ${libdir}/libcoinlapack.la /usr/local/lib/libcoinblas.a -lgfortran  -L/usr/local/gfortran/lib/gcc/x86_64-apple-darwin16/6.3.0 -L/usr/local/gfortran/lib/gcc/x86_64-apple-darwin16/6.3.0/../../.. -lgfortran -lSystem -lquadmath -lm   -L/usr/local/gfortran/lib/gcc/x86_64-apple-darwin16/6.3.0 -L/usr/local/gfortran/lib/gcc/x86_64-apple-darwin16/6.3.0/../../.. -lgfortran -lSystem -lquadmath -lm
+Cflags:
+Requires: 

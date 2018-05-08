@@ -1,0 +1,9 @@
+
+.idea
+
+
+Ipopt-3.12.1/build
+ekf/cmake-build-debug/
+
+ekf/ide_profiles/
+ukf/cmake-build-debug/

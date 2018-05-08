@@ -1,0 +1,3 @@
+/Users/venice/Developer/driving/mpc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/venice/Developer/driving/mpc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/venice/Developer/driving/mpc/cmake-build-debug/CMakeFiles/mpc.dir

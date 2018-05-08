@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/venice/Developer/driving/mpc
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/venice/Developer/driving/mpc/cmake-build-debug
